@@ -1,0 +1,62 @@
+[
+  {
+    "FirstName": "aadsfasdf",
+    "LastName": "afadsgkfas",
+    "UserName": null,
+    "Email": null,
+    "Password": null,
+    "DateOfBirth": "0001-01-01",
+    "Id": 1,
+    "CreatedAt": "2024-07-28T16:26:23.450669+05:00"
+  },
+  {
+    "FirstName": "Abdulbosid",
+    "LastName": "Parpiyev",
+    "UserName": "Morbid ",
+    "Email": null,
+    "Password": "jadsfkadnfklsadf",
+    "DateOfBirth": "0001-01-01",
+    "Id": 2,
+    "CreatedAt": "2024-07-28T16:31:00.7595683+05:00"
+  },
+  {
+    "FirstName": "dafdsfdfasdf",
+    "LastName": "ljfkojrlmfadf",
+    "UserName": "lkjdfka,dslfemfsd",
+    "Email": "parpiyev.df@gmailcom",
+    "Password": "ladjfieorldfltoeli495i89roi3udf",
+    "DateOfBirth": "2004-11-02",
+    "Id": 3,
+    "CreatedAt": "2024-07-28T16:32:59.7079+05:00"
+  },
+  {
+    "FirstName": "Abdulbosid",
+    "LastName": "Parpiyev",
+    "UserName": "King",
+    "Email": "parpiyev.adfadsf@gmail.com",
+    "Password": "dasfsdjfnsaodkfmsldf",
+    "DateOfBirth": "2004-01-11",
+    "Id": 4,
+    "CreatedAt": "2024-07-28T20:56:48.3338423+05:00"
+  },
+  {
+    "FirstName": "osdforekfdk",
+    "LastName": "oapferoerpoerfkdfl",
+    "UserName": "orfen",
+    "Email": "dfnadsnf@gmail.com",
+    "Password": "orfen124",
+    "DateOfBirth": "2004-01-01",
+    "Id": 5,
+    "CreatedAt": "2024-07-28T21:04:13.3165427+05:00"
+  },
+  {
+    "FirstName": "sadfsdfa",
+    "LastName": "dsfakdsnf",
+    "UserName": "dsajfierjfd",
+    "Email": "kdjfajsdfk@gmail.com",
+    "Password": "ajfkdjsfkasdf",
+    "DateOfBirth": "2004-01-01",
+    "Id": 6,
+    "CreatedAt": "2024-07-28T21:14:22.4053574+05:00"
+  }
+]
